@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  number: 1
+  visitor: MyText
+  home: MyText
+  vscore: 1
+  hscore: 1
+  date: MyText
+  visitorhva: MyText
+  homehva: MyText
+
+two:
+  number: 1
+  visitor: MyText
+  home: MyText
+  vscore: 1
+  hscore: 1
+  date: MyText
+  visitorhva: MyText
+  homehva: MyText
